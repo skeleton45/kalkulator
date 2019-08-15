@@ -1,5 +1,4 @@
 
-
 " Hanya pelajar yang belajar python ~
 
 Cara install:
