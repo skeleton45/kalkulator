@@ -4,9 +4,10 @@
 Cara install:
 
 $ pkg install python2
-$ python2 kalkulator.py
+$ pkg install git
+$ git clone https://github.com/skeleton45
+$ cd mtk
+$ python2 kalkulator.py2
 
-
-https://github.com/skeleton45
 
 http://www.affan45.site
