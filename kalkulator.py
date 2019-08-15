@@ -1,3 +1,5 @@
+#lagi belajar python slur ~
+
 import os,sys
 os.system("clear")
 
