@@ -3,7 +3,7 @@
 
 Cara install:
 
-$ pkg install python2
+$ pkg install python
 
 $ pkg install git
 
@@ -11,4 +11,4 @@ $ git clone https://github.com/skeleton45/kalkulator
 
 $ cd kalkulator
 
-$ python2 kalkulator.py
+$ python math.py
